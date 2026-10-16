@@ -1,19 +1,17 @@
 # Umut Can Akçay
 
-Full-stack developer and computer engineering student. I build web platforms end to end —
-TypeScript/Node services, React front ends, Python for data and ML — and I like the systems layer:
-Linux, networking, and the parts where you have to read the code to understand the behaviour.
+I’m a computer engineering student and full-stack developer who enjoys building things across the stack, from  front-ends and TypeScript/Node.js services to Python-based data and ML projects. I’m also interested in what happens under the hood, especially Linux, networking, and digging into code to understand how things actually work.
 
-LinkedIn · linkedin.com/in/umutcanakcay &nbsp;|&nbsp; E-mail · can.akcay@aol.com
+**LinkedIn** · linkedin.com/in/umutcanakcay &nbsp;|&nbsp; **E-mail**· can.akcay@aol.com
 
 ### What I work with
 
-**Languages** — JavaScript/TypeScript, Python, C, C++, Java, Bash, SQL
-**Backend** — Node.js/Express, NestJS, Flask, .NET MVC Core, REST APIs, WebSockets (Socket.IO)
-**Frontend** — React, Next.js, Vue, Tailwind CSS, Bootstrap
-**Data & ML** — pandas, NumPy, scikit-learn, LightGBM/XGBoost, embeddings and vector search (RAG), LangChain, LLM tool-calling
-**Systems** — Linux, Docker, WebRTC, P2P/DHT, parallel computing
-**Spoken** — Turkish (native), English (B2), German (A1)
+- **Languages:** JavaScript/TypeScript, Python, C, C++, Java, Bash, SQL
+- **Backend:** Node.js/Express, NestJS, Flask, .NET MVC Core, REST APIs, WebSockets (Socket.IO)
+- **Frontend:** React, Next.js, Vue, Tailwind CSS, Bootstrap
+- **Data & ML:** pandas, NumPy, scikit-learn, LightGBM/XGBoost, embeddings and vector search (RAG), LangChain, LLM tool-calling
+- **Systems:** Linux, Docker, WebRTC, P2P/DHT, parallel computing
+- **Spoken:** Turkish (native), English (B2), German (A1)
 
 ### Featured projects
 
