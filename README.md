@@ -39,5 +39,3 @@ LinkedIn · linkedin.com/in/umutcanakcay &nbsp;|&nbsp; E-mail · can.akcay@aol.c
 - **logi-m575-sensitivity-app** — a small C/Linux utility that maps the extra buttons of a Logitech
   M575 trackball to pointer sensitivity through xbindkeys (GPL-3.0).
 
-Superseded projects are archived rather than deleted, so the repository list stays honest about
-what is current.
